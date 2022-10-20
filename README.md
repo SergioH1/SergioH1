@@ -2,7 +2,7 @@
 
 ### Spotify
 
-[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)]()
+[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://spotifynowwatching.vercel.app/api/spotify)
 
 <!--
 **SergioH1/SergioH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
