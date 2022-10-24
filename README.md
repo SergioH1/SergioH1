@@ -7,9 +7,10 @@
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SergioH1&layout=compact&theme=dracula"/>
 </p>
 
-### Spotify 🎶
+### 🎶 Spotify
 
-[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
+<p align="center">[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
+</p>
 
 <!--
 **SergioH1/SergioH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
