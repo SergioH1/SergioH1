@@ -9,8 +9,11 @@
 
 ### 🎶 Spotify
 
-<p align="center">[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
-</p>
+<div align="center">
+<a href = "https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky">
+ <img src="https://spotifynowwatching.vercel.app/api/spotify"/> </a>
+</div>
+[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
 
 <!--
 **SergioH1/SergioH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
