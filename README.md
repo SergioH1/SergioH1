@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-### Spotify
+## 📈 My github stats
+
+<p align="center">
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergioH1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SergioH1&layout=compact&theme=tokyonight"/>
+</p>
+
+### Spotify 🎶
 
 [![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
 
