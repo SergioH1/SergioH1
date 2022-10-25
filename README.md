@@ -1,5 +1,5 @@
  <div align="center">
-<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1250&color=00F5D4&center=true&width=600&background=282A36&border=FFFFFFFF&height=100&lines=Hola+Mundo;Soy+Sergio+H;Desarrollador+Frontend+%26+Backend;%C2%BFQu%C3%A9+tal+estas%3F;Yo+%C2%A1Bien!+%2C+%C2%A1Un+placer+conocerte!;%C2%BFDe+verdad+sigues+leyendo%3F;uff+Si+que+estas+aburrid%40;%C2%BFQuiz%C3%A1s+esto+sea+infinito%3F;Naah+seguro+que+termina+;+%C2%BFO+quiz%C3%A1s+no%3F;!Ey%C2%A1+%C2%BFsigues+ah%C3%AD%3F;Si+has+aguantado+hasta+aqu%C3%AD+...;Igual+deber%C3%ADas+seguirme+%3AD" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1250&color=00F5D4&center=true&width=600&border=FFFFFFFF&height=100&lines=Hola+Mundo;Soy+Sergio+H;Desarrollador+Frontend+%26+Backend;%C2%BFQu%C3%A9+tal+estas%3F;Yo+%C2%A1Bien!+%2C+%C2%A1Un+placer+conocerte!;%C2%BFDe+verdad+sigues+leyendo%3F;uff+Si+que+estas+aburrid%40;%C2%BFQuiz%C3%A1s+esto+sea+infinito%3F;Naah+seguro+que+termina+;+%C2%BFO+quiz%C3%A1s+no%3F;!Ey%C2%A1+%C2%BFsigues+ah%C3%AD%3F;Si+has+aguantado+hasta+aqu%C3%AD+...;Igual+deber%C3%ADas+seguirme+%3AD" alt="Typing SVG" /></a>
 
 ## 📈 My github stats
 
