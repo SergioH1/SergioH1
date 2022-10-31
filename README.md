@@ -14,6 +14,9 @@
 <a href = "https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky">
  <img src="https://spotifynowwatching.vercel.app/api/spotify"/> </a>
 </div>
+<div id='viewsCounter' align='center'>
+  <img src="https://komarev.com/ghpvc/?username=SergioH1g&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 <!--[![Spotify](https://spotifynowwatching.vercel.app/api/spotify)](https://open.spotify.com/user/zq6jsfa8qjdgc34hg9nr82sky)
 
